@@ -150,5 +150,5 @@ Here are some ideas to get you started:
 C#  3 hrs 58 mins    █████████████████████████   100.00 %
 ```
 <!--END_SECTION:waka-->
-![Profile](https://visitor-badge.glitch.me/badge?page_id=mertroot.mertroot)
+![Profile](https://komarev.com/ghpvc/?username=mertroot)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/mertbacara/)
