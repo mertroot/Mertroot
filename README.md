@@ -150,5 +150,5 @@ Here are some ideas to get you started:
 C#  3 hrs 58 mins    █████████████████████████   100.00 %
 ```
 <!--END_SECTION:waka-->
-![views since 2023/06/14](https://visitor-badge-deno.deno.dev/mertroot.mertroot.svg)
+![views since 2023/06/14](https://visitor-badge.deta.dev/badge?page_id=mertroot.mertroot)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/mertbacara/)
