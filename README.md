@@ -143,7 +143,7 @@ Here are some ideas to get you started:
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmFmY3Y4OGo4aGp5ZXRkMHdvN2VvMXJoZHh2NXBnNTVoODl4YXBjOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" alt="About Me GIF" width="300px">
 <br/>
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mertroot&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Mertroot&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <!--START_SECTION:waka-->
 
 ```text
